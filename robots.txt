@@ -1,3 +1,8 @@
+# Robots.txt for alejo86a.github.io
+# This site belongs to José Alejandro Berrío Marín, a Lead Software Engineer
+# The site includes professional portfolio information and personal development setup product recommendations
+# All pages are open for search engine indexing
+
 User-agent: *
 Allow: /
 
